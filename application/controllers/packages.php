@@ -13,6 +13,13 @@ class Packages extends CI_Controller {
     }
 	/*
 	 */
+	public function testabc(){
+
+		echo "Herere"; exit;
+
+	}
+
+
 	public function index()
 	{	
 
